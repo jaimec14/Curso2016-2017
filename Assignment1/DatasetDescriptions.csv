@@ -1,6 +1,5 @@
 ﻿Your name, Dataset name, Dataset URL, Dataset brief description
 Oscar Corcho, Dataset de ejemplo, http://datos.example.com/dataset/dataset-prueba, Dataset de test generado para demostrar cómo se hará la actualización de este fichero CSV
-Juan Cano de Benito, Madrid CTRM, http://datahub.io/dataset/crtm, Dataset de la infraestructura de transportes de la comunidad de Madrid
 Carlos Saito, London Traffic Flows, http://data.london.gov.uk/dataset/traffic-flows-borough, Estimated traffic volume for cars and all vehicles by local authority since from 1993 to 2015.
 Jesús Bella, Datos abiertos CyL-Segovia, http://www.datosabiertos.jcyl.es/web/jcyl/RISP/es/Plantilla66y33/1284162104384/_/_/_, Recopilación de datos pertenecientes a diferentes materias correspondientes a la comunidad de CyL y sus ciudades.
 Alberto Camporredondo, Bike parkings in Belgium, http://data.gov.be/en/dataset/70e3fc4e-37fb-41f7-b244-8f4244421c9f, Locations of bike parkings in Belgium
@@ -35,3 +34,4 @@ Rafael Arcas Arenas, Seville Spending Budget, https://datahub.io/dataset/seville
 Axel Flores Guarneros, Chicago homicides 2001-2013, https://datahub.io/dataset/chicago-homicides, Homicidios reportados en la ciudad de Chicago entre 2001 y 2013
 Jaime Caraza Luis, Places of interest in Leeds, https://datahub.io/dataset/places-of-interest-in-leeds, Useful dataset to some of the places of interest across the city
 Javier Garcia Menéndez, Toronto Building Permits, http://www1.toronto.ca/wps/portal/contentonly?vgnextoid=312cfa24d5e83310VgnVCM1000003dd60f89RCRD&vgnextchannel=1a66e03bb8d1e310VgnVCM10000071d60f89RCRD, Dataset with Building Permits and Active Permits in Toronto City
+Jaime Callejo del Grado, Brazilian Cities, https://datahub.io/dataset/braziliancities, Dataset about Brazilian cities. It contains informatios as population total, area total and founding date.
